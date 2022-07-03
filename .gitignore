@@ -153,3 +153,4 @@ cython_debug/
 
 src/test/client.py
 src/test/tester.py
+src/test/old.py
